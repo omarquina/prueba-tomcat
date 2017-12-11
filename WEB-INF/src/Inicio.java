@@ -2,7 +2,7 @@ import java.io.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
  
-@WebServlet("/inicio")
+//@WebServlet("/inicio")
 public class Inicio extends HttpServlet {
 	   @Override
 	      public void doGet(HttpServletRequest request, HttpServletResponse response)
